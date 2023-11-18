@@ -5,6 +5,9 @@ import NavTop from "@/components/NavTop";
 import NavBar from "@/components/NavBar";
 import NavBarMain from "@/components/NavBarMain";
 
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
