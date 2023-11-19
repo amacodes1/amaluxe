@@ -1,5 +1,6 @@
 import React from "react";
-import { FaSearch, FaUser, FaHeart, FaShoppingBag } from "react-icons/fa";
+import { FaSearch } from "react-icons/fa";
+import { FiUser, FiHeart, FiShoppingCart } from "react-icons/fi";
 
 export default function NavBar() {
   return (
@@ -20,17 +21,17 @@ export default function NavBar() {
           />
         </div>
         <div className="hidden lg:flex gap-4 text-gray-500 text-[30px]">
-          <FaUser />
+          <FiUser />
 
           <div className="relative">
-            <FaHeart />
+            <FiHeart />
             <div className="bg-red-600 rounded-full absolute top-0 right-0 w-[18px] h-[18px] text-[12px] text-white grid place-items-center translate-x-1 -translate-y-1">
               0
             </div>
           </div>
 
           <div className="relative">
-            <FaShoppingBag />
+            <FiShoppingCart />
             <div className="bg-red-600 rounded-full absolute top-0 right-0 w-[18px] h-[18px] text-[12px] text-white grid place-items-center translate-x-1 -translate-y-1">
               0
             </div>
