@@ -44,6 +44,20 @@ const productsData = [
     rating: 1,
     price: "45.00",
   },
+  {
+    img: "https://businessofprelovedfashion.com/cdn/shop/products/chanel-green-small-trendy-top-handle-bag-834553.jpg?v=1646782578",
+    title: "Green Bag",
+    desc: "LATEST FASHION GREEN BAG",
+    rating: 3,
+    price: "45.00",
+  },
+  {
+    img: "https://businessofprelovedfashion.com/cdn/shop/products/chanel-green-small-trendy-top-handle-bag-834553.jpg?v=1646782578",
+    title: "Green Bag",
+    desc: "LATEST FASHION GREEN BAG",
+    rating: 5,
+    price: "45.00",
+  },
 ];
 
 export default function Products() {
