@@ -20,24 +20,24 @@ export default function Hero() {
       id: 0,
       img: "https://img.freepik.com/premium-photo/female-hands-holds-handbag-blue-background-flat-lay-top-view-spring-fashion-concept-pastel-colored_479776-670.jpg",
       title: "Trending Items",
-      Desc: "WOMEN'S LATEST FASHION SALE",
-      Price: "$15",
+      desc: "WOMEN'S LATEST FASHION SALE",
+      price: "15",
     },
 
     {
       id: 1,
       img: "https://img.freepik.com/premium-photo/female-hands-holds-handbag-blue-background-flat-lay-top-view-spring-fashion-concept-pastel-colored_479776-670.jpg",
       title: "Trending Items",
-      Desc: "MEN'S FOOTWEAR",
-      Price: "$20",
+      desc: "MEN'S FOOTWEAR",
+      price: "20",
     },
 
     {
       id: 2,
       img: "https://img.freepik.com/premium-photo/female-hands-holds-handbag-blue-background-flat-lay-top-view-spring-fashion-concept-pastel-colored_479776-670.jpg",
       title: "Sales Offer",
-      Desc: "NEW FASHION SUMMER SALES",
-      Price: "$30",
+      desc: "NEW FASHION SUMMER SALES",
+      price: "30",
     },
   ];
 
