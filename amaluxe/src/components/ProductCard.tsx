@@ -75,9 +75,9 @@ const ProductCard: React.FC<propsType> = ({
   };
   return (
     <div className="px-4 border border-gray-200 rounded-xl max-w-[400px]">
-      <div>
+      <div className="transition hover:scale-105 overflow-hidden">
         <Image
-          className="w-full h-auto"
+          className="w-full h-auto object-contain cursor-pointer"
           src={img}
           width={200}
           height={300}
