@@ -13,10 +13,10 @@ export default function NavBarMain() {
             CATEGORIES
           </Link>
           <Link className="navMain-link relative" href="#">
-            WOMEN'S
+            WOMEN&apos;S
           </Link>
           <Link className="navMain-link relative" href="#">
-            MEN'S
+            MEN&apos;S
           </Link>
           <Link className="navMain-link relative" href="#">
             BAGS
